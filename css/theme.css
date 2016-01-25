@@ -6212,10 +6212,15 @@ div[data-pagination="true"] {
   .widget.hero-widget > h2 {
     color: #697181;
     font-size: 36px;
-    left: -62%;
-    margin-top: -20px;
-    position: absolute;
-    top: 50%; }
+    margin-bottom: 150px;
+    margin-top: -150px; }
+    @media (min-width: 768px) {
+      .widget.hero-widget > h2 {
+        left: -62%;
+        margin-top: -20px;
+        position: absolute;
+        margin-bottom: 0;
+        top: 50%; } }
   .widget.hero-widget .carousel-item {
     font-size: 36px; }
     .widget.hero-widget .carousel-item > a {
