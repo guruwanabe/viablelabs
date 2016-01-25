@@ -1,0 +1,29 @@
+//
+// Helpers
+// --------------------------------------------------
+$assets_path: '../images';
+$icon-custom-font-path: "../fonts/" !default;
+$icon-custom-font-name:   "viablelab" !default;
+$icon-custom-font-svg-id: "viablelab" !default;
+
+//
+// Theme general
+// --------------------------------------------------
+$theme-secondary: #ff6969;
+$text-color: #212124;
+$text-muted: #9494a1;
+$body-bg: #fbfbfb;
+
+//
+// Header
+// --------------------------------------------------
+$header-bg: #181e20;
+$header-width: 760px;
+$header-link-hover-color: $theme-secondary;
+$top-bar-border-color: #393e41;
+$nav-color: #8e9699;
+$nav-divider-color: #3e4c50;
+
+//
+// Sections
+// --------------------------------------------------

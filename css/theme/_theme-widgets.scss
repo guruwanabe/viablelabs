@@ -1,0 +1,36 @@
+@import 'slick';
+@import 'slick-theme';
+.widget {
+	&.hero-widget {
+		color: #ffffff;
+		display: block;
+		height: 100%;
+		margin-top: 250px;
+		position: relative;
+		right: 0;
+		text-align: center;
+		vertical-align: middle;
+		width: 100%;
+		> h2 {
+			color: #697181;
+			font-size: 36px;
+			left: -62%;
+			margin-top: -20px;
+			position: absolute;
+			top: 50%;
+		}
+		.carousel-item {
+			font-size: 36px;
+			> a {
+				color: #323740;
+				padding: 20px 0;
+				display: block;
+			}
+			&.slick-active {
+				> a {
+					color: #fff;
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2016 by original authors @ fontello.com</metadata>
+<defs>
+<font id="viablelab" horiz-adv-x="1000" >
+<font-face font-family="viablelab" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="divider" unicode="&#xe800;" d="m833 350l0-1-1 0-415-500-415 500-1 0 0 1 0 1 1 0 415 499 415-499 1 0 0-1z" horiz-adv-x="833" />
+<glyph glyph-name="down-open-big" unicode="&#xe801;" d="m63 570l370-356 372 356q22 26 48 0 26-22 0-48l-396-392q-22-22-48 0l-396 392q-26 26 0 48 24 24 50 0z" horiz-adv-x="866" />
+<glyph glyph-name="up-open-big" unicode="&#xe802;" d="m804 130l-372 358-370-358q-26-22-50 0-24 24 0 50l396 390q26 26 48 0l396-390q24-26 0-50-26-22-48 0z" horiz-adv-x="864" />
+<glyph glyph-name="code" unicode="&#xe803;" d="m344 69l-28-28q-5-5-12-5t-13 5l-260 260q-6 6-6 13t6 13l260 260q5 6 13 6t12-6l28-28q6-5 6-13t-6-12l-219-220 219-219q6-6 6-13t-6-13z m330 596l-208-721q-2-7-9-11t-13-1l-34 9q-8 3-11 9t-2 14l208 720q3 8 9 11t13 2l35-10q7-2 11-9t1-13z m367-364l-260-260q-6-5-13-5t-13 5l-28 28q-5 6-5 13t5 13l219 219-219 220q-5 5-5 12t5 13l28 28q6 6 13 6t13-6l260-260q5-5 5-13t-5-13z" horiz-adv-x="1071.4" />
+<glyph glyph-name="arrow-down" unicode="&#xe804;" d="m2286 823l-1114-944 3-3-26-27-6 6-6-6-26 27 3 3-1114 944 26 27 1117-947 1117 947 26-27z" horiz-adv-x="2286" />
+<glyph glyph-name="arrow-up" unicode="&#xe805;" d="m2081-103l-24-25-1005 905-1006-905-23 25 1003 903-3 3 23 25 6-5 5 5 24-25-3-3 1003-903z" horiz-adv-x="2103" />
+</font>
+</defs>
+</svg>
