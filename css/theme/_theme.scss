@@ -204,6 +204,7 @@
 		}
 		article {
 			margin-top: 40px;
+			margin-bottom: 75px;
 			@include clearfix;
 			figure {
 				margin-top: 15px;
@@ -228,6 +229,7 @@
 			margin-bottom: 75px;
 			> h3 {
 				font-size: ceil($font-size-base * 3.42); //48px
+				margin-bottom: 30px;
 			}
 			> span {
 				@include text-tags($text-muted,$text-color);

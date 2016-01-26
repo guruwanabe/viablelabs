@@ -6435,7 +6435,8 @@ div[data-pagination="true"] {
       .viablelabs section p > a {
         color: #212124; }
     .viablelabs section article {
-      margin-top: 40px; }
+      margin-top: 40px;
+      margin-bottom: 75px; }
       .viablelabs section article:before, .viablelabs section article:after {
         content: " ";
         display: table; }
@@ -6460,7 +6461,8 @@ div[data-pagination="true"] {
         .viablelabs section .boxed {
           padding: 60px 80px; } }
       .viablelabs section .boxed > h3 {
-        font-size: 48px; }
+        font-size: 48px;
+        margin-bottom: 30px; }
       .viablelabs section .boxed > span {
         color: #9494a1;
         font-size: 18px; }
