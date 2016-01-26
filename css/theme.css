@@ -6027,6 +6027,7 @@ div[data-pagination="true"] {
   border: 1px solid transparent;
   outline: none;
   z-index: 1;
+  width: 100%;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   border-radius: 10px; }

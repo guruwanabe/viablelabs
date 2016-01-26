@@ -79,7 +79,7 @@ $slick-opacity-not-active: 0.25 !default;
 	border: 1px solid transparent;
 	outline: none;
 	z-index: 1;
-	//width: 44px;
+	width: 100%;
 	@include border-radius(10px);
 	&:hover,
 	&:focus {
